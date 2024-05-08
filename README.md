@@ -20,10 +20,7 @@ This analysis aims to develop a logistic regression model for credit risk assess
 - F1-score (Class 0): 1.00
 - F1-score (Class 1): 0.88
 - Accuracy: 0.99
-
-## Confusion Matrix:
-- The confusion matrix provides additional insight into the model's performance by showing the number of true positive, true negative, false positive, and false negative predictions for each class.
-
+  
 ## Summary
 - The logistic regression model demonstrates strong performance in credit risk assessment, achieving high precision, recall, and F1-scores for both healthy and high-risk loans. With an accuracy of 99% on both training and testing datasets, the model accurately classifies loans and effectively identifies potential high-risk borrowers.
 
