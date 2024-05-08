@@ -6,6 +6,6 @@
 ## Files
 - **Credit_Risk/credit_risk_classification.ipynb** - Jupyter notebooks with data preprocessing, model training, and evaluation code
 - **Credit_Risk/Resources/lending_data.csv** -  dataset used for analysis
-- 
+  
 ## Credit
 - This analysis was completed by Anna Ramer.
