@@ -4,7 +4,7 @@
 This analysis aims to develop a logistic regression model for credit risk assessment using historical lending data. The goal is to assist lending institutions in identifying and managing credit risk effectively, thereby optimizing lending practices and minimizing potential losses from loan defaults.
 
 ## Results / Model Performance:
-# Training Data:
+### Training Data:
 - Precision (Class 0): 1.00
 - Precision (Class 1): 0.86
 - Recall (Class 0): 1.00
@@ -12,7 +12,7 @@ This analysis aims to develop a logistic regression model for credit risk assess
 - F1-score (Class 0): 1.00
 - F1-score (Class 1): 0.88
 - Accuracy: 0.99
-# Testing Data:
+### Testing Data:
 - Precision (Class 0): 1.00
 - Precision (Class 1): 0.85
 - Recall (Class 0): 0.99
